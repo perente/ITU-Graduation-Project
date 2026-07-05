@@ -12,6 +12,10 @@ StajChain addresses these issues with a permissioned blockchain-based system tha
 
 Hyperledger Fabric is used as the blockchain platform because it provides permissioned network support, role-based access control, and a strong fit for institutional workflows. The system is designed to support multiple students, companies, and faculty units under university governance while providing secure, traceable, and controlled multi-party approval for internship agreements.
 
+## Project Report
+
+A detailed explanation of the system architecture, implementation choices, and evaluation results is provided in `GraduationProject_FinalReport.pdf`.
+
 ## Quick Start
 
 1. Install dependencies in `backend/`, `frontend/`, and `chaincode/`.
